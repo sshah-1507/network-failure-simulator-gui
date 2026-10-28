@@ -1,0 +1,26 @@
+# Build output
+out/
+bin/
+*.class
+
+# Logs
+*.log
+
+# IDE & Editor files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Crash logs
+hs_err_pid*
+replay_pid*
